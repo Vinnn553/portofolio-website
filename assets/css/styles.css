@@ -218,7 +218,7 @@ svg {
   position: absolute;
   width: 1000%;
   height: 100%;
-  background-color: hsla(0, 0%, 10%, 0.3);
+  /* background-color: hsla(0, 0%, 10%, 0.3); */
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   top: 0;
